@@ -1,6 +1,6 @@
 # Olá este é o App Lista de Frutas !!
 
-criei este projetinho para aprender como funciona filter, map, reduce!!
+criei este projetinho para aprender como funciona filter, map, reduce em js!!
 
 Você pode visualizar este projeto clicando <a href="https://project-filter.vercel.app/"> AQUI</a>   <--
 
